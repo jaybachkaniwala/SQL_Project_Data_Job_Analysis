@@ -2,7 +2,7 @@
 Question: What are the top-paying Business Analyst jobs?
 - Identify the top 10 highest-paying Business Analyst roles that are either available remotely or in Dallas,TX
 - Focuses on job postings with specified salaries (remove nulls)
-- BONUS: Include company names of top 10 roles
+- Include company names of top 10 roles
 - Why? Highlight the top-paying opportunities for Business Analysts, offering insights into employment options and associated location.
 */
 
@@ -28,6 +28,7 @@ LIMIT 10
 
 /*
 Key takeaways from the above query regarding the top business analyst jobs in 2023:
+
 Salary Range: Top 10 paying business analyst roles span from $134,550 to $220,000, indicating significant salary potential in the field.
 Diverse Employers: Companies like Noom, Uber, and Multicoin Capital are among those offering these high salaries, showing a broad interest across different industries ranging from large well known MNC's to Cryptocurrency companies.
 Job Title Variety: There's a high degree of diversity in job titles, from Marketing Analytics Manager to Lead Business Intelligence Engineer, reflecting varied roles and specializations within business analytics.
