@@ -3,7 +3,7 @@ Question: What are the most in-demand skills for business analysts?
 - Inner join job postings table to skills_job_dim & skills_dim tables
 - Identify the top 5 in-demand skills for a business analyst
 - Why? Retrieves the top 5 skills with the highest demand in the job market for a business analyst, 
-    providing insights into the most valuable skills for job seekers
+    providing insights into the most valuable skills for job seekers looking for remote jobs or a job based in TX
 - This differs from previous query as that only looked at the skills required for the top 10 highest paying business analyst roles 
 */
 

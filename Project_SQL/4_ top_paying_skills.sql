@@ -1,5 +1,5 @@
 /*
-Answer: What are the top-paying skills for a business analyst?
+Question: What are the top-paying skills for a business analyst?
 - Look at the average salary associated with each skill for Business Analyst positions
 - Focuses on roles with specified salaries, regardless of location (this will provide us with a larger sample 
 size than just remote or TX-based roles)
