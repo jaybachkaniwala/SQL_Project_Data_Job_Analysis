@@ -24,7 +24,6 @@ ORDER BY
 LIMIT 5   
 
 /*
-* Insert Visualization from Word Doc here*
 Analysis: 
 -For business analysts roles (remote or TX-based), the most in-demand skill is SQL, followed by Excel and Tableau. 
 -We saw from our previous query analysis that for the highest-paying business analyst roles, 
