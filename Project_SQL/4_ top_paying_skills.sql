@@ -23,7 +23,6 @@ ORDER BY
 LIMIT 25;
 
 /*
-*Insert Visualization here from word doc*
 Analysis: 
 
 Technical Skills with Strong Salaries:

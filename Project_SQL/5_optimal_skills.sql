@@ -55,8 +55,6 @@ LIMIT 25;
 /*
 Analysis:
 
-* Insert Visualization here*
-
 Highest Paying Skills:
 - R has the highest average salary at $105,969, followed closely by Python at $104,277.
 - These skills are in high demand for roles involving data science and advanced analytics.

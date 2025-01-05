@@ -35,7 +35,6 @@ ORDER BY
     salary_year_avg DESC;
 
 /* 
-INSERT VISUALIZATIONS HERE FROM WORD DOC
 Analysis: 
 - We can clearly see from the two visualizations above that Python is the skill that is the most required in the top-paying Business Analyst roles 
 (that we identified earlier) that are either remote or bases in Texas. This is followed by SQL, Tableau, and Excel. 
